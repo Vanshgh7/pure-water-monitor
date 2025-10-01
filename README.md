@@ -1,6 +1,4 @@
 # 💧 pure water Monitoring Dashboard
-
-A collaborative challenge by **Omdena Kutch Chapter**
 ---
 
 ## Overview
@@ -29,19 +27,6 @@ Remote sensing data was sourced using **Google Earth Engine**.
 ## Why This Matters
 
 By displaying these critical water quality parameters, our dashboard supports quick decision-making and timely action, strengthening environmental monitoring efforts and awareness.
-
----
-
-## Try the Dashboard 🚀
-
-- **Heroku Web App:**  
-  [Try on Heroku](https://kutch-water-quality-monitoring.herokuapp.com/)
-
-- **Final Presentation:**  
-  [See the Project Slide Deck](https://docs.google.com/presentation/d/1Stb6vlbMlVoujyg-EZp63xcxcBBQg5ME/edit?usp=sharing&ouid=101910884647262199554&rtpof=true&sd=true)
-
-- **Original Repository:**  
-  [View Source on GitHub](https://github.com/OmdenaAI/omdena-kutch-India-water-qality-monitoring-)
 
 ---
 
